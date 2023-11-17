@@ -19,4 +19,4 @@
 
 * Regla 9. Los elementos con el id ```imagenestitle``` tendran un margen de 0 y un color de letra ```#333``` y el texto estara alineado a la derecha.
 
-* Regla 10. Los elementos con el id ```copyrigth``` estaran alienados a la derecha.
+* Regla 10. Los elementos con el id ```copyright``` estaran alienados a la derecha.

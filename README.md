@@ -15,7 +15,7 @@
 
 * Regla 7. Los elementos con el id ```copastitle``` tendran un margen de 0 y un color de letra ```rgb(192, 163, 0)```
 
-* Regla 8. Las imagenes de toda la pagina tendran un tamaño (```width```) del 70% un margen del lado derecho del 16% y con las esquias redondeadas con un radio de 25px.
+* Regla 8. Las imagenes de toda la pagina tendran un tamaño (```width```) del 70% un margen del lado izquierdo del 16% y con las esquias redondeadas con un radio de 25px.
 
 * Regla 9. Los elementos con el id ```imagenestitle``` tendran un margen de 0 y un color de letra ```#333``` y el texto estara alineado a la derecha.
 
